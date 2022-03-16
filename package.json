@@ -1,0 +1,19 @@
+{
+  "name": "estudos",
+  "version": "1.0.0",
+  "description": "Exercicios para treino",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrunoCotaXavier/estudos.git"
+  },
+  "author": "Bruno Cota Xavier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoCotaXavier/estudos/issues"
+  },
+  "homepage": "https://github.com/BrunoCotaXavier/estudos#readme"
+}
